@@ -1,4 +1,3 @@
-// package set;
 import java.util.*;
 
 public class Program1 {
